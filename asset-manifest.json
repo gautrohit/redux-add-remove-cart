@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-add-remove-cart/static/css/main.78f0eba6.css",
+    "main.js": "/redux-add-remove-cart/static/js/main.e6139e98.js",
+    "index.html": "/redux-add-remove-cart/index.html",
+    "main.78f0eba6.css.map": "/redux-add-remove-cart/static/css/main.78f0eba6.css.map",
+    "main.e6139e98.js.map": "/redux-add-remove-cart/static/js/main.e6139e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f0eba6.css",
+    "static/js/main.e6139e98.js"
+  ]
+}
